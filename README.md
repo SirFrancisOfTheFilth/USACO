@@ -1,2 +1,8 @@
 # USACO
-Algorithms I have made for problems in the USA Computing Olympiad
+Algorithms I have designed for solving problems in the USA Computing Olympiad(done in C++)
+
+Also from these other sites which do algorithmic programming:
+1. WCIPEG
+2. Codeforces
+3. Codechef
+
