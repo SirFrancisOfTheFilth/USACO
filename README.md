@@ -4,8 +4,10 @@ Algorithms I have designed for solving problems in the USA Computing Olympiad(do
 Also from these other sites which do algorithmic programming:
 1. WCIPEG
 2. Codeforces
-3. Codechef
+3. CodeChef
 4. Atcoder
-5. COCI
+5. Leetcode
+
+
 
 
