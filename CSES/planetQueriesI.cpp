@@ -5,6 +5,7 @@
 #include <queue>
 #include <cmath>
 
+//this code will TLE on cases 6-10, try using successor paths, since each node has an outdegree of at most one
 
 int endPlanet = -1;
 void gTraverse(int start, int numTP, int tp[], int n){
